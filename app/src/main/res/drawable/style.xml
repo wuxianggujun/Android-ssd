@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="MyTabLayoutTextAppearance" 
+    parent="TextAppearance.AppCompat.Widget.ActionBar.Title">    
+    <item name="android:textSize">5sp</item>   
+    <item name="android:textColor">@color/c1olorAAA</item>
+        
+    </style>
+
